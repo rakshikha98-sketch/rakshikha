@@ -49,3 +49,4 @@ ggplot(mean_age_by_site, aes(x = site, y = mean_age)) +
   )
 # Export cleaned dataset
 write_csv(clinic_clean, "data/clinic_clean.csv")
+# Updated workflow for Git version control practice
